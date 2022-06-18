@@ -1,4 +1,4 @@
--------------To upload the code-------------------\n
+-------------To upload the code-------------------
 Step 1: Download Ardunio ide by visiting "https://www.arduino.cc/en/software" and download Ardunio according to your oprating system.
 Step 2: Install the Ardunio software.
 Step 3: Open "AutoConnectNodeMCU.ino"
